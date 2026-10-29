@@ -15,3 +15,5 @@ The app checks for updates after launch and daily, downloads updates in the back
 It never restarts by itself. **Restart to Update** waits for active work to finish.
 
 Update checks and downloads contact GitHub, which receives your IP address and request information.
+
+[Fragments website](https://usefragments.com)
